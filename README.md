@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-**DottoArts/DottoArts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### About Me 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,5 +8,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+### Stats 
 
 <img src="https://github-readme-stats.vercel.app/api?username=dottoarts&&show_icons=true&title_color=ffffff&icon_color=ffff00&text_color=ffffff&bg_color=a9a9a9">
