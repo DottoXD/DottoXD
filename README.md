@@ -1,11 +1,7 @@
 ### About Me 👋
 
-- 🔭 I’m currently working on BetterDJS and on Orangy bot!
+- 🔭 I’m currently working on Listed and on Orangy bot!
 - 🌱 I’m currently learning JS, HTML and CSS.
-
-### A Random Song For You 🎧
-
-<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
 
 ### Stats 📫
 
