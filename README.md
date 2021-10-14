@@ -1,7 +1,7 @@
 ### About Me 👋
 
-- 🔭 I’m currently working on Listed and on Orangy bot!
-- 🌱 I’m currently learning JS, HTML and CSS.
+- 🔭 I’m currently working on Orangy, a free all in one Discord bot!
+- 🌱 I’m currently learning NodeJS, HTML and CSS.
 
 ### Stats 📫
 
