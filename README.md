@@ -5,7 +5,7 @@
 
 ### Stats 📫
 
-<img src="https://github-readme-stats.vercel.app/api?username=dottoarts&&show_icons=true&title_color=ffffff&icon_color=ffff00&text_color=ffffff&bg_color=a9a9a9">
+<img src="https://github-readme-stats.vercel.app/api?username=DottoXD&&show_icons=true&title_color=ffffff&icon_color=ffff00&text_color=ffffff&bg_color=a9a9a9">
 
 ### Languages and Tools 💬
 
