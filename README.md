@@ -1,9 +1,7 @@
 ### About Me 👋
 
-- 🔭 I’m currently working on Orangy, a free all in one Discord bot!
-- 🌱 I’m currently learning Python and TypeScript.
-- ⌨️ I'm mainly coding in NodeJS.
-
+- 🍊 I’m currently working on Orangy, a free all in one Discord bot!
+- ☀️ Working on SunCrystal Studios :D
 ### Stats 📫
 
 <img src="https://github-readme-stats.vercel.app/api?username=DottoXD&&show_icons=true&title_color=ffffff&icon_color=ffff00&text_color=ffffff&bg_color=ff5f00">
