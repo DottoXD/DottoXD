@@ -1,5 +1,8 @@
-### » 👋 About me
+### » 👋 Hey there.
 
-- » 🍊 I’m currently working on Orangy, a free all in one Discord bot!
-- » ☀️ I'm also working on a few other projects such as WycordJS.
-- » 🎮 I also own a Minecraft server!
+I'm a frontend/backend developer mainly using **TypeScript**, **Java** and **Go**.
+I'm currently working on a few projects such as
+- WycordJS, a free TypeScript Discord API wrapper.
+- [Orangy](https://github.com/OrangyBot), an all in one and free Discord bot. 
+- my own [Minecraft server](https://github.com/ShulkeredClub)
+- ...and more!
